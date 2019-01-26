@@ -9,3 +9,4 @@ git log --pretty=oneline
 git reflog
 git log --oneline
 git reset --hard <hash>
+git branch <branchname> 创建分支
