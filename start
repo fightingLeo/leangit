@@ -5,3 +5,7 @@ git branch --set-upstream-to=origin/master master
 git pull 
 
 git rm --cached start   如果文件只执行了commit，没有被push 时想进行撤销操作时，执行此操作
+git log --pretty=oneline
+git reflog
+git log --oneline
+git reset --hard <hash>
