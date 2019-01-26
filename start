@@ -11,3 +11,4 @@ git log --oneline
 git reset --hard <hash>
 git branch <branchname> 创建分支
 git checkout <branchname> 切换分支
+git merget <src-branch> <dest-branch> 合并分支
